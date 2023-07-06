@@ -1,1 +1,2 @@
-# Data_structures_and_algorithms
+## Emmanuel Chavarria Solis
+Tareas de Estructuras de computadores y Algoritmos

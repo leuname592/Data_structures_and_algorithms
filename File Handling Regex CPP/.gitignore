@@ -1,0 +1,12 @@
+*.o
+*.exe
+.vscode/
+obj/
+bin/
+*.txt
+*.csv
+bin/
+obj/
+html/
+latex/
+*.bak
